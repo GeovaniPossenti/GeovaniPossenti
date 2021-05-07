@@ -3,7 +3,10 @@
 
 <h3 align="left">Connect with me</h3>
 
-# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/geovani-possenti-a850a6210/)](https://www.linkedin.com/in/geovani-possenti-a850a6210/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/GeovaniPossenti)](https://github.com/GeovaniPossenti)
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/geovani-possenti-a850a6210/" target="blank">
+<img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="https://www.linkedin.com/in/geovani-possenti-a850a6210/" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">My skills</h3>
 
