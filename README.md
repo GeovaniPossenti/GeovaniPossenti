@@ -1,3 +1,3 @@
 ### Spotify Playing 🎧
-[![Spotify](https://geovanipossenti.vercel.app/api/spotify)](https://open.spotify.com/user/Ayamarusa)
+[<img src="https://novatorem-khaki.vercel.app/api/spotify.py" alt="Spotify Playing" width="500" />](https://open.spotify.com/user/Ayamarusa)
 
