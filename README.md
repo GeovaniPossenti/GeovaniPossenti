@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Geovani 👋</h1>
 <h3 align="center">Atualmente sou estudante do 1° Semestre do curso Bacharelado em Sistemas de Informação.</h3>
 
-<h3 align="left">Connect with me</h3>
+<h3 align="center">Connect with me</h3>
 
-<p align="center"><a href="https://www.linkedin.com/in/geovani-possenti-a850a6210/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Geovani Possenti" /></a>
+<p align="center"><a href="https://www.linkedin.com/in/geovani-possenti-a850a6210/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Geovani Possenti" target="_blank"/></a>
 <a href="https://github.com/GeovaniPossenti"><img src="https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white" alt="Linkedin Geovani Possenti" alt="GitHub Geovani Possenti" /></a></p>
 
 <h3 align="center">My skills</h3>
@@ -12,7 +12,7 @@
 
 <h3 align="left">Spotify Playing 🎧</h3>
 
-[<img src="https://novatorem-three-olive.vercel.app/api/spotify" alt="Geovani Possenti Spotify Playing" width="500" />](https://open.spotify.com/user/Ayamarusa)
+<p align="center"><a href="https://open.spotify.com/user/Ayamarusa"><img src="https://novatorem-three-olive.vercel.app/api/spotify" alt="Geovani Possenti Spotify Playing" width="500" /></a></p>
 
 <h3 align="left">Stats</h3>
 
