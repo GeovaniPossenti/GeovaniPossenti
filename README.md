@@ -3,6 +3,8 @@
 
 <h3 align="left">Connect with me</h3>
 
+<img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/geovani-possenti-a850a6210/" alt="Linkedin Geovani Possenti" />
+
 # [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/geovani-possenti-a850a6210/)](https://www.linkedin.com/in/geovani-possenti-a850a6210/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/GeovaniPossenti)](https://github.com/GeovaniPossenti)
 
 <h3 align="center">My skills</h3>
