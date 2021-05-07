@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm Geovani 👋</h1>
 <h3 align="center">Atualmente sou estudante do 1° Semestre do curso Bacharelado em Sistemas de Informação.</h3>
-<hr size="1">
+
+<hr style="height: 1px;">
+
 <h3 align="center">Connect with me</h3>
 
 <p align="center"><a href="https://www.linkedin.com/in/geovani-possenti-a850a6210/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Geovani Possenti" target="_blank"/></a>
