@@ -1,6 +1,10 @@
 <h1 align="center">Hi there, I'm Geovani 👋</h1>
 <h3 align="center">Atualmente sou estudante do 1° Semestre do curso Bacharelado em Sistemas de Informação.</h3>
 
+- 🔭 I’m currently working on [Sistema-de-OS](https://github.com/GeovaniPossenti/Sistema-de-OS)
+
+- 🌱 I’m currently learning **JavaScript**
+
 <h3 align="left">Connect with me</h3>
 
 <p align="left"><a href="https://www.linkedin.com/in/geovani-possenti-a850a6210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Geovani Possenti"/></a>
