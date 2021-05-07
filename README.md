@@ -14,8 +14,8 @@
 <center>
   <table>
     <tr>
-        <td><img width="400px" alt="Geovani Possenti GitHub Stats" align="left" src="https://github-readme-stats-gules-psi.vercel.app/api/top-langs/?username=GeovaniPossenti&theme=material-palenight&hide=html,TSQL,CSS&layout=compact&count_private=true" /></td>
-        <td><img width="495px" alt="Geovani Possenti GitHub Stats" align="left" src="https://github-readme-stats-gules-psi.vercel.app/api?username=GeovaniPossenti&theme=material-palenight&show_icons=true&count_private=true"/></td>
+        <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geovanipossenti&theme=material-palenight&show_icons=true&locale=en&layout=compact" alt="geovanipossenti" /></td>
+        <td><img width="495px" alt="Geovani Possenti GitHub Stats" align="left" src="https://github-readme-stats-gules-psi.vercel.app/api?username=GeovaniPossenti&theme=material-palenight&show_icons=true&count_private=true" /></td>
     </tr>   
   </table>
 </center>
