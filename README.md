@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Geovani 👋</h1>
-<h3 align="center">Atualmente sou estudante do 1° Semestre do curso Bacharelado em Sistemas de Informação.</h3>
 
 - 🔭 I’m currently working on [Sistema-de-OS](https://github.com/GeovaniPossenti/Sistema-de-OS)
 
