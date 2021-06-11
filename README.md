@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Sistema-de-OS](https://github.com/GeovaniPossenti/Sistema-de-OS)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Laravel**
 
 <h3 align="left">Connect with me 👋</h3>
 
