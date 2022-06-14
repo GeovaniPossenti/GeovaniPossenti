@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Geovani 👋</h1>
 
-- 🔭 I’m currently working on [Sistema-de-OS](https://github.com/GeovaniPossenti/Sistema-de-OS)
+- 🔭 I’m currently working on [Selettra project]
 
 - 🌱 I’m currently learning **Laravel**
 
