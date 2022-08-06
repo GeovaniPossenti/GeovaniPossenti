@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me 👋</h3>
 
-<p align="left"><a href="https://www.linkedin.com/in/geovanipossenti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Geovani Possenti"/></a><a href="https://github.com/GeovaniPossenti"><img src="https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white" alt="Linkedin Geovani Possenti" alt="GitHub Geovani Possenti" /></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/possentigeovani/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Geovani Possenti"/></a><a href="https://github.com/GeovaniPossenti"><img src="https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white" alt="Linkedin Geovani Possenti" alt="GitHub Geovani Possenti" /></a></p>
 
 <h3 align="left">My skills 📚</h3>
 
