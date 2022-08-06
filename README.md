@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Geovani 👋</h1>
 
-- 🔭 I’m currently working on [Selettra project]
+- 🔭 I’m currently working on [WindowsCalculator]
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **JavaScript**
 
 <h3 align="left">Connect with me 👋</h3>
 
